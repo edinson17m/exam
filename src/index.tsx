@@ -9,6 +9,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    <p>test menu</p>
     <Menu />
   </React.StrictMode>
 );
