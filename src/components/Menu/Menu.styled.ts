@@ -15,3 +15,5 @@ export const DisplyCentr = styled.div`
 
 
 `;
+
+
